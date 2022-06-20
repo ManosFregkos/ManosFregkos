@@ -13,4 +13,4 @@
 - ⚡ Fun fact: ...
 
 --!>
-[![Contact me on Codementor](https://www.codementor.io/m-badges/eboxnet88/find-me-on-cm-b.svg)](https://www.codementor.io/@eboxnet88?refer=badge)
+
