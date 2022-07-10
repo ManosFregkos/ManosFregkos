@@ -12,6 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+Would you like personalize help ?? <a href="https://www.codementor.io/@eboxnet88?refer=badge"><img src="https://www.codementor.io/m-badges/eboxnet88/find-me-on-cm-g.svg" alt="Codementor badge"></a>
 --!>
 
-Would you like personalize help ?? <a href="https://www.codementor.io/@eboxnet88?refer=badge"><img src="https://www.codementor.io/m-badges/eboxnet88/find-me-on-cm-g.svg" alt="Codementor badge"></a>
+
